@@ -6,6 +6,21 @@ Nibrainrot adalah aplikasi Android open/distribusi mandiri yang dirancang untuk 
 
 ---
 
+
+---
+
+## 📱 Tampilan Antarmuka (Screenshots)
+
+<div align="center">
+  <img src="docs/screenshots/dashboard.png" width="30%" alt="Dashboard Nibrainrot" />
+  <img src="docs/screenshots/rules.png" width="30%" alt="Aturan Pemblokiran" />
+  <img src="docs/screenshots/stats.png" width="30%" alt="Analisis Screen Time" />
+</div>
+
+| 🏠 Layar Beranda (Dashboard) | 🛡️ Manajemen Aturan Blokir | 📊 Statistik & Penggunaan |
+| :---: | :---: | :---: |
+| Pantau Skor Kesehatan Otak, Status Fokus, dan Kuota Aplikasi Hari Ini | Atur kuota per aplikasi, Monk Mode, Detoks Malam, dan Anti-Bypass | Grafik interaktif durasi penggunaan & histori harian |
+
 ## 🚀 Fitur Utama
 
 - ⏱️ **Daily Usage Quota**: Tentukan batas harian spesifik per aplikasi (misal: TikTok 10 menit, Instagram 15 menit). Saat kuota tercapai, aplikasi otomatis terkunci.
